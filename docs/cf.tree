@@ -7,4 +7,5 @@
                  start-page="overview.md">
 
     <toc-element topic="overview.md"/>
+    <toc-element topic="Linux-Commands.md"/>
 </instance-profile>
