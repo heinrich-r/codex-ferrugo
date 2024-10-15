@@ -10,9 +10,9 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: Writerside/cf
+  INSTANCE: docs/cf
   ARTIFACT: webHelpCF2-all.zip
-  DOCKER_VERSION: 242.21870
+  DOCKER_VERSION: 241.18775
 
 jobs:
   build:
