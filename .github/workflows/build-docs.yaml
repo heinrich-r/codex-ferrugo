@@ -9,6 +9,11 @@ permissions:
   id-token: write
   pages: write
 
+env:
+  INSTANCE: Writerside/cf
+  ARTIFACT: webHelpCF2-all.zip
+  DOCKER_VERSION: 242.21870
+
 jobs:
   build:
     runs-on: ubuntu-latest
