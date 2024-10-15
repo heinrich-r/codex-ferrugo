@@ -1,6 +1,6 @@
 ![Codex Ferrugo Banner](codex_ferrugo_banner.png)
 
-# Welcome to Codex Ferrugo
+# Codex Ferrugo
 
 Welcome to **Codex Ferrugo**, an evolving collection of my go-to technology tips, commands, and resources. Whether you're setting up a new environment, troubleshooting systems, or simply looking for a quick command, this codex has you covered with time-tested tools and techniques.
 
@@ -9,9 +9,13 @@ Welcome to **Codex Ferrugo**, an evolving collection of my go-to technology tips
 As a tech enthusiast with a love for **automation** and **system efficiency**, I've curated this collection to make everyday tasks faster and smoother—whether it's managing a virtual machine, configuring development environments, or automating workflows.
 
 ### 🛠️ **Core Areas Covered**:
-- <i>coming soon...</i>
 
----
+#### Cheatsheet
+- [](Linux-Commands.md)
+
+#### Education
+- [](CyberSecurity.md)
+- [](Homelab.md)
 
 ## 🚀 **Getting Started with Codex Ferrugo**
 

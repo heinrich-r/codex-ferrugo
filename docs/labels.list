@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <primary-label id="education" short-name="Edu" name="Education" color="strawberry">
+        Education
+    </primary-label>
+
+    <primary-label id="cheatsheet" short-name="CS" name="Cheatsheet" color="purple">
+        Cheatsheets
+    </primary-label>
+
+    <secondary-label id="wip" name="WIP" color="tangerine">Work in progress</secondary-label>
+
+    <secondary-label id="2023" name="2023" color="blue">Added in 2023</secondary-label>
+    <secondary-label id="2024" name="2024" color="blue">Added in 2024</secondary-label>
+</labels>

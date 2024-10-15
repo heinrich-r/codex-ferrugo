@@ -1,6 +1,9 @@
+<primary-label ref="cheatsheet"/>
+<secondary-label ref="2024"/>
+
 # Linux Commands
 
-A list of frequently used Linux commands - might differ based on distro.
+A list of frequently used Linux commands.
 
 Add user to Sudo group
 : 

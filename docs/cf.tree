@@ -4,8 +4,13 @@
 
 <instance-profile id="cf"
                  name="Codex Ferrugo"
-                 start-page="overview.md">
+                 start-page="Codex-Ferrugo.md">
 
-    <toc-element topic="overview.md"/>
-    <toc-element topic="Linux-Commands.md"/>
+    <toc-element topic="Codex-Ferrugo.md">
+        <toc-element topic="Personal-Articles.md"/>
+        <toc-element topic="Linux-Commands.md"/>
+        <toc-element topic="Homelab.md"/>
+        <toc-element topic="CyberSecurity.md"/>
+        <toc-element topic="AI.md"/>
+    </toc-element>
 </instance-profile>
