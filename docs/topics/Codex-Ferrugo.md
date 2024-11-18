@@ -12,6 +12,7 @@ As a tech enthusiast with a love for **automation** and **system efficiency**, I
 
 #### Cheatsheet
 - [](Linux-Commands.md)
+- [](Arch-Commands.md)
 
 #### Education
 - [](CyberSecurity.md)

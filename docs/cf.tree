@@ -7,8 +7,12 @@
                  start-page="Codex-Ferrugo.md">
 
     <toc-element topic="Codex-Ferrugo.md">
+        <toc-element topic="Cheat-Sheets.md">
+            <toc-element topic="Linux-Commands.md"/>
+            <toc-element topic="Arch-Commands.md"/>
+            <toc-element topic="Python-Cheats.md"/>
+        </toc-element>
         <toc-element topic="Personal-Articles.md"/>
-        <toc-element topic="Linux-Commands.md"/>
         <toc-element topic="Homelab.md"/>
         <toc-element topic="CyberSecurity.md"/>
         <toc-element topic="AI.md"/>
