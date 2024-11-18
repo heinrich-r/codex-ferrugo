@@ -8,7 +8,7 @@ Welcome to **Codex Ferrugo**, an evolving collection of my go-to technology tips
 **Codex Ferrugo** is a personal knowledge base where I compile and share frequently used scripts, commands, and best practices. 
 As a tech enthusiast with a love for **automation** and **system efficiency**, I've curated this collection to make everyday tasks faster and smoother—whether it's managing a virtual machine, configuring development environments, or automating workflows.
 
-### 🛠️ **Core Areas Covered**:
+### ️ 🌍 **Core Areas Covered**:
 
 #### Cheatsheet
 - [](Linux-Commands.md)
@@ -28,3 +28,7 @@ If you’re new here, this quick guide will help you get the most out of Codex F
    ```bash
    git clone https://github.com/heinrich-r/codex-ferrugo.git
     ```
+   
+## 🛠️ Contribute to the Project
+
+Feel free to checkout or fork the repo and make it your own -> [codex-ferrugo](https://github.com/heinrich-r/codex-ferrugo)
